@@ -30,7 +30,7 @@
 | פרויקט | תיאור | Stack |
 |--------|--------|-------|
 | [🔐 Secure Messenger](https://github.com/meanochi/secure-messenger) | אפליקציית צ'אט real-time עם הצפנת AES-256-GCM, JWT ו-SSE | Python · FastAPI · SQLAlchemy |
-| [🎭 ShowsCenter](https://github.com/meanochi/ShowsCenter) | מערכת הזמנת כרטיסים עם מפת מושבים אינטראקטיבית ופאנל ניהול | Angular · .NET · SSR |
+| [🎭 ShowsCenter](https://github.com/meanochi/ShowsCenter) + [WebApiShop](https://github.com/meanochi/WebApiShop) | מערכת הזמנת כרטיסים עם מפת מושבים אינטראקטיבית ופאנל ניהול | Angular · .NET · SSR |
 | [📄 Attendance Modifier](https://github.com/meanochi/attendance-report-modifier) | ETL pipeline לעיבוד, סיווג וייצור מחדש של דוחות נוכחות | Python · OCR · Clean Architecture |
 | [🤖 AutoOrganizerMCP](https://github.com/meanochi/AutoOrganizerMCP) | MCP server שמארגן קבצים אוטומטית לפי תוכן עם AI | Python · MCP · FastMCP |
  
